@@ -1,6 +1,6 @@
 !function () {
 
-    document.write("<div class='divCanvas'><canvas id='myCanvas' style='display: block;' width="+window.innerWidth+" height="+window.innerHeight+"><img src='do the urkel.jpg.gif'></canvas></div>");
+    document.write("<div class='divCanvas'><canvas id='myCanvas' style='display: block;' width="+window.innerWidth+" height="+window.innerHeight+"><img src="do the urkel.jpg.gif"></canvas></div>");
 
     document.onmousemove = moveHandler; 
 
